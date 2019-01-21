@@ -1,0 +1,9 @@
+(jbuild_version 1)
+
+(library
+ ((name        projet)
+  (inline_tests)
+  (libraries (ocamlgraph))
+  (modules (projet_donjon))
+  (preprocess (pps (ppx_inline_test)))))
+

@@ -1,0 +1,2 @@
+(** @canonical Projet.Projet_donjon *)
+module Projet_donjon = Projet__Projet_donjon

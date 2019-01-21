@@ -1,0 +1,8 @@
+# jbuilder runtest
+# OCAMLPARAM: unset
+$ /usr/bin/getconf _NPROCESSORS_ONLN > /var/folders/0d/m1n3_1qd2tqb6htwjgnxq2mr0000gn/T/dunef6300f.output 2> /dev/null
+$ /opt/local/bin/ocamlc.opt -config > /var/folders/0d/m1n3_1qd2tqb6htwjgnxq2mr0000gn/T/dunecc49ac.output
+$ (cd _build/default && .ppx/jbuild/5ccac8911c4cff291e9b1f2cc80dcb66/ppx.exe --cookie 'library-name="projet"' -o projet_donjon.pp.ml --impl projet_donjon.ml --dump-ast)
+> File "projet_donjon.ml", line 135, characters 0-0:
+> Error: Syntax error
+[1]

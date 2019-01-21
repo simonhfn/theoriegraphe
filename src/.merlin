@@ -1,0 +1,19 @@
+EXCLUDE_QUERY_DIR
+B /Users/simonhfn/.opam/default/lib/base
+B /Users/simonhfn/.opam/default/lib/base/caml
+B /Users/simonhfn/.opam/default/lib/base/shadow_stdlib
+B /Users/simonhfn/.opam/default/lib/ocamlgraph
+B /Users/simonhfn/.opam/default/lib/ppx_inline_test/config
+B /Users/simonhfn/.opam/default/lib/ppx_inline_test/runtime-lib
+B /Users/simonhfn/.opam/default/lib/sexplib0
+B _build/default/.projet.objs
+S /Users/simonhfn/.opam/default/lib/base
+S /Users/simonhfn/.opam/default/lib/base/caml
+S /Users/simonhfn/.opam/default/lib/base/shadow_stdlib
+S /Users/simonhfn/.opam/default/lib/ocamlgraph
+S /Users/simonhfn/.opam/default/lib/ppx_inline_test/config
+S /Users/simonhfn/.opam/default/lib/ppx_inline_test/runtime-lib
+S /Users/simonhfn/.opam/default/lib/sexplib0
+S .
+FLG -ppx '/Users/simonhfn/Desktop/enseeiht/2A/theoriegraphe/projet/src/_build/default/.ppx/jbuild/5ccac8911c4cff291e9b1f2cc80dcb66/ppx.exe --as-ppx --cookie '\''library-name="projet"'\'''
+FLG -open Projet -w -40
