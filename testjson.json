@@ -1,1 +1,1 @@
-{"indicator" :  "size", "year": [2016, 2017, 2018], "values":[[2.3, 4.3, 2.4], [1.4, 5.2], [5.6, 7.5, 6.3]], "country":[["AUT", "BRA", "FRA"], ["AUT", "BRA"], ["FIN", "AFG", "BRA"]]}
+{"indicator" :  "size", "year": [2016, 2017, 2018], "values":[[2.3], [1.4, 5.2], [5.6]], "country":[["AUT"], ["AUT", "BRA"], ["FIN"]]}{"indicator" :  "size2", "year": [2016, 2017, 2018], "values":[[3.1], [2.1, 1.1], [1.6]], "country":[["AUT"], ["AUT", "BRA"], ["FIN"]]}
